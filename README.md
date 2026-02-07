@@ -56,7 +56,7 @@ Fell free to contact me!
 
 
 
-- 🔬 **Undergraduate Research Grant Holder** at Centro Algoritmi - October 2024 – September 2025
+- 🔬 **Undergraduate Research Grant Holder** at Centro Algoritmi, October 2024 – September 2025
 
 
 
