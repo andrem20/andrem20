@@ -93,15 +93,9 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-- Participation in **University Open Days (UPA)**
+- Participation in **University Open Days (UPA)** and on **Summer at Campus** program, both powered by UMinho, on both 2024 and 2025 editions 
 
-- **Summer at Campus** program – UMinho  
-
-- Workshops: **CeNTI**, *Vive a Engenharia*  
-
-- Volunteering: **2024 & 2025 editions**
-
-
+- Certified Workshops: **CeNTI**, *Vive a Engenharia*  
 
 ---
 
