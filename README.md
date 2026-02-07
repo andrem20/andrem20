@@ -1,12 +1,12 @@
-\# Hi, I'm André Martins 👋
+# Hi, I'm André 👋
 
 
 
-🎓 \*\*Industrial Electronics \& Computers Engineering\*\*  
+🎓 **Industrial Electronics & Computers Engineering**  
 
 🏫 University of Minho (UMinho)  
 
-🤖  Embedded System \& Robotics enthusiast
+🤖  Embedded System & Robotics enthusiast
 
 
 
@@ -14,15 +14,15 @@
 
 
 
-\## 👨‍🎓 About Me
+## 👨‍🎓 About Me
 
 
 
-I hold a \*\*Bachelor’s degree in Industrial Electronics and Computers Engineering\*\* from the \*\*University of Minho\*\*, with a final average of \*\*18.3/20\*\*, and I am currently pursuing a \*\*Master’s degree in the same field\*\*, specializing in Control, Automation and Robotics \& Embedded Systems and Computers, in the same University.
+I hold a **Bachelor’s degree in Industrial Electronics and Computers Engineering** from the **University of Minho**, with a final average of **18.3/20**, and I am currently pursuing a **Master’s degree in the same field**, specializing in Control, Automation and Robotics & Embedded Systems and Computers, in the same University.
 
 
 
-I enjoy hands-on projects, teamwork, and tackling new technical challenges. I consider myself \*\*determined, resilient, and enthusiastic\*\*, always eager to learn from new experiences.
+I enjoy hands-on projects, teamwork, and tackling new technical challenges. I consider myself **determined, resilient, and enthusiastic**, always eager to learn from new experiences.
 
 
 
@@ -30,15 +30,15 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-\## 🔬 Academic \& Technical Projects
+## 🔬 Academic & Technical Projects
 
 
 
-\- ⚙️ \*\*Design and Construction of a Brushless DC Motor (BLDC)\*\*
+- ⚙️ **Design and Construction of a Brushless DC Motor (BLDC)**
 
-\- 🔋 \*\*Step-up DC–DC Converter Design\*\*
+- 🔋 **Step-up DC–DC Converter Design**
 
-\- 🤖 \*\*Fully Analog RF Remote-Controlled Robot\*\*
+- 🤖 **Fully Analog RF Remote-Controlled Robot**
 
 &nbsp; - Solar charging  
 
@@ -46,16 +46,18 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 &nbsp; - Omnidirectional control
 
-\- 📡 \*\*Bluetooth \& Wi-Fi Remote-Controlled Robot\*\*
+- 📡 **Bluetooth & Wi-Fi Remote-Controlled Robot**
 
 &nbsp; - Obstacle detection  
 
-&nbsp; - Temperature, CO₂ \& TVOC gas sensors  
+&nbsp; - Temperature, CO₂ & TVOC gas sensors  
 
 &nbsp; - Omnidirectional control  
 
 &nbsp; - Wireless data transmission
 
+- **AllWays Safe - *An intelligent V2I/I2P traffic control system for enhanced road safety and accessibility***
+- **GR0040 SoC Refactoring**
 
 
 
@@ -64,13 +66,13 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-\## 🧠 Research Experience
+## 🧠 Research Experience
 
 
 
-\- 🔬 \*\*Undergraduate Research Grant Holder\*\*  
+- 🔬 **Undergraduate Research Grant Holder**  
 
-&nbsp; \*Be-Neutral 17/2024\*  
+&nbsp; *Be-Neutral 17/2024*  
 
 &nbsp; 📅 October 2024 – September 2025
 
@@ -80,19 +82,19 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-\## 🏛️ Associations \& Leadership
+## 🏛️ Associations & Leadership
 
 
 
-\*\*NEEEICUM – University of Minho\*\*
+**NEEEICUM – University of Minho**
 
-\- Associate Member, Internal Administration Department (2023 – 2024)
+- Associate Member, Internal Administration Department (2023 – 2024)
 
-\- Director, Internal Administration Department (2024)
+- Director, Internal Administration Department (2024)
 
-\- Associate Director, Internal Administration Department (2025 – present)
+- Associate Director, Internal Administration Department (2025 – present)
 
-\- Associate Member, External Relations Department (2025 – present)
+- Associate Member, External Relations Department (2025 – present)
 
 
 
@@ -104,41 +106,17 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-\## 🎤 Outreach \& Volunteering
+## 🎤 Outreach & Volunteering
 
 
 
-\- Participation in \*\*University Open Days (UPA)\*\*
+- Participation in **University Open Days (UPA)**
 
-\- \*\*Summer at Campus\*\* program – UMinho  
+- **Summer at Campus** program – UMinho  
 
-\- Workshops: \*\*CeNTI\*\*, \*Vive a Engenharia\*  
+- Workshops: **CeNTI**, *Vive a Engenharia*  
 
-\- Volunteering: \*\*2024 \& 2025 editions\*\*
-
-
-
----
-
-
-
-\## 🧰 Skills
-
-
-
-\- \*\*Embedded Systems \& Electronics\*\*
-
-\- \*\*Robotics \& Automation\*\*
-
-\- Teamwork \& Collaboration
-
-\- Communication
-
-\- Critical Thinking
-
-\- Time Management
-
-\- Adaptability
+- Volunteering: **2024 & 2025 editions**
 
 
 
@@ -146,13 +124,23 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-\## 🌍 Languages
+## 🧰 Skills
 
 
 
-\- 🇵🇹 Portuguese — Native  
+- **Embedded Systems & Electronics**
 
-\- 🇬🇧 English — C2 (Cambridge Certificate)
+- **Robotics & Automation**
+
+- Teamwork & Collaboration
+
+- Communication
+
+- Critical Thinking
+
+- Time Management
+
+- Adaptability
 
 
 
@@ -160,11 +148,25 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-\## 📫 Contact
+## 🌍 Languages
 
 
 
-📧 \*\*andredearaujomartins00@gmail.com\*\*
+- Portuguese — Native  
+
+- English — C2 (Cambridge Certificate)
+
+
+
+---
+
+
+
+## 📫 Contact
+
+
+
+📧 **andredearaujomartins00@gmail.com**
 
 
 
