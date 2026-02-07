@@ -20,9 +20,7 @@
 
 I hold a **Bachelor’s degree in Industrial Electronics and Computers Engineering** from the **University of Minho**, with a final average of **18.3/20**, and I am currently pursuing a **Master’s degree in the same field**, specializing in Control, Automation and Robotics & Embedded Systems and Computers, in the same University.
 
-
-
-I enjoy hands-on projects, teamwork, and tackling new technical challenges. I consider myself **determined, resilient, and enthusiastic**, always eager to learn from new experiences.
+Passioned by hands-on projects, teamwork, and tackling new technical challenges.
 
 Fell free to contact me!
 📧 **andredearaujomartins00@gmail.com**.
