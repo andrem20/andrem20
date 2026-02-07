@@ -57,11 +57,7 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-- 🔬 **Undergraduate Research Grant Holder**  
-
-&nbsp; *Be-Neutral 17/2024*  
-
-&nbsp; 📅 October 2024 – September 2025
+- 🔬 **Undergraduate Research Grant Holder** at Centro Algoritmi - October 2024 – September 2025
 
 
 
