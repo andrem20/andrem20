@@ -34,30 +34,17 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 
 
-- ⚙️ **Design and Construction of a Brushless DC Motor (BLDC)**
+- **Design and Construction of a Brushless DC Motor (BLDC)**
 
-- 🔋 **Step-up DC–DC Converter Design**
+- **Step-up DC–DC Converter Design and Implementation**
 
-- 🤖 **Fully Analog RF Remote-Controlled Robot**
+- **ALMA: a Fully Analog RF Remote-Controlled Robot** - features solar charging, obstacle detection and omnidirectional control.
 
-&nbsp; - Solar charging  
-
-&nbsp; - Obstacle detection  
-
-&nbsp; - Omnidirectional control
-
-- 📡 **Bluetooth & Wi-Fi Remote-Controlled Robot**
-
-&nbsp; - Obstacle detection  
-
-&nbsp; - Temperature, CO₂ & TVOC gas sensors  
-
-&nbsp; - Omnidirectional control  
-
-&nbsp; - Wireless data transmission
+- **HazMapper: a robot designed for hazardous areas** - features obstacle detection, Temperature, CO₂ & TVOC gas sensors, Omnidirectional control and wireless sensor data transmission
 
 - **AllWays Safe - *An intelligent V2I/I2P traffic control system for enhanced road safety and accessibility***
-- **GR0040 SoC Refactoring**
+  
+- **GR0040 SoC Refactoring** - refactoring a 16-bit RISC CPU and integrating more functionalities, such as UART and I2C
 
 
 
