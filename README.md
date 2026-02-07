@@ -24,7 +24,8 @@ I hold a **Bachelor’s degree in Industrial Electronics and Computers Engineeri
 
 I enjoy hands-on projects, teamwork, and tackling new technical challenges. I consider myself **determined, resilient, and enthusiastic**, always eager to learn from new experiences.
 
-
+Fell free to contact me!
+📧 **andredearaujomartins00@gmail.com**.
 
 ---
 
@@ -97,53 +98,6 @@ I enjoy hands-on projects, teamwork, and tackling new technical challenges. I co
 
 - Certified Workshops: **CeNTI**, *Vive a Engenharia*  
 
----
-
-
-
-## 🧰 Skills
-
-
-
-- **Embedded Systems & Electronics**
-
-- **Robotics & Automation**
-
-- Teamwork & Collaboration
-
-- Communication
-
-- Critical Thinking
-
-- Time Management
-
-- Adaptability
-
-
-
----
-
-
-
-## 🌍 Languages
-
-
-
-- Portuguese — Native  
-
-- English — C2 (Cambridge Certificate)
-
-
-
----
-
-
-
-## 📫 Contact
-
-
-
-📧 **andredearaujomartins00@gmail.com**
 
 
 
