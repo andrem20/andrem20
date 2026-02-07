@@ -39,7 +39,7 @@ Fell free to contact me!
 
 - **ALMA: a Fully Analog RF Remote-Controlled Robot** - features solar charging, obstacle detection and omnidirectional control.
 
-- **HazMapper: a robot designed for hazardous areas** - features obstacle detection, Temperature, CO₂ & TVOC gas sensors, Omnidirectional control and wireless sensor data transmission
+- **HazMapper: a robot designed for hazardous areas mapping** - features obstacle detection, Temperature, CO₂ & TVOC gas sensors, Omnidirectional control and wireless sensor data transmission
 
 - **AllWays Safe - *An intelligent V2I/I2P traffic control system for enhanced road safety and accessibility***
   
